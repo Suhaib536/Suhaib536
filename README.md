@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Suhaib</h1>
 <h3 align="center">A curious mind from India, exploring the frontiers of coding, AI, and ML.</h3>
 
-img align="right" alt="Coding" width="400" src ="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5"
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=suhaib536&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib536" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaib536&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib536" /> </p>
 
-- 🔭 I’m currently working on **AI based project**
-
-- 🌱 I’m currently learning **Qiskit, TensorFlow**
-
-- 💬 Ask me about **Robotics, ML etc**
-
-- 📫 How to reach me **suhaibshafijan@gmail.com**
-
-- ⚡ Fun fact **I don't have one :(**
+- 🔭 I’m currently working on **AI-based projects**
+- 🌱 Currently learning **Qiskit, TensorFlow**
+- 💬 Ask me about **Robotics, ML, etc**
+- 📫 Reach me at **suhaibshafijan@gmail.com**
+- ⚡ Fun fact: **I don't have one :(** 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
