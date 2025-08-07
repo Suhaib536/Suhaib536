@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suhaib</h1>
 <h3 align="center">A curious mind from India, exploring the frontiers of coding, AI, and ML.</h3>
 
-<img align="left"
-     alt="Programming stick figure going crazy on fire"
-     width="400"
-     src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif" />
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suhaib536&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib536" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaib536&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib536" /> </p>
+
 
 - 🔭 I’m currently working on **AI-based projects**
 - 🌱 Currently learning **Qiskit, TensorFlow**
