@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suhaib</h1>
 <h3 align="center">A curious mind from India, exploring the frontiers of coding, AI, and ML.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaib536&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib536" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaib536&label=Profile%20views&color=0e75b6&style=flat" alt="suhaib536" />
 
 
 - 🔭 I’m currently working on **AI-based projects**
