@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/77/11/2c/77112c27c82abfbad65d76058f26c11e.gif" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Suhaib</h1>
 <h3 align="center">A curious mind from India, exploring the frontiers of coding, AI, and ML.</h3>
 
